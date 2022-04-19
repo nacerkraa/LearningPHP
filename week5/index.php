@@ -1,9 +1,3 @@
-<?php 
-
-$myname = "nacer kraa"
-
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -29,7 +23,9 @@ $myname = "nacer kraa"
         **    ***
 
     </pre>
-    print hash('sha256', 'Nacer Kraa');
+    <a href="fail.php">Click here to check the error setting</a>
+    <br>
+    <a href="check.php">Click here to cause a traceback</a>
 
 </body>
 </html>
