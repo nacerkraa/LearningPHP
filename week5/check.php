@@ -16,6 +16,7 @@ echo("And set\n\n");
 echo("display_errors = On\n\n");
 echo("Until you do this, you will be very very unhappy doing PHP development\n");
 echo("in this PHP environment.\n");
+echo("this is new line \n");
 
 echo "</pre>\n";
 ?>
